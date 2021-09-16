@@ -6,8 +6,6 @@
 
 :heavy_check_mark:简单mesh
 
-:heavy_check_mark:ssr
-
 :heavy_check_mark:smartdns
 
 :heavy_check_mark:Adbyby
@@ -28,7 +26,7 @@
 
 :heavy_check_mark:组播
 
-:heavy_check_mark:锐捷认证
+~~锐捷认证~~（找不到合适的依赖，暂时放弃）
 
 :heavy_check_mark:KMS
 
