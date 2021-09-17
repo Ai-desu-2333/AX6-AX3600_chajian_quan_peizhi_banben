@@ -24,7 +24,7 @@
 
 :heavy_check_mark:多拨&负载均衡
 
-~~heavy_check_mark~~
+~~组播~~
 
 ~~锐捷认证~~（找不到合适的依赖，暂时放弃）
 
