@@ -8,7 +8,7 @@
 
 ~~smartdns~~
 
-:heavy_check_mark:Adbyby
+:heavy_check_mark:adguardhome
 
 :heavy_check_mark:解锁云音乐
 
@@ -22,7 +22,7 @@
 
 :heavy_check_mark:openclash
 
-:heavy_check_mark:多拨&负载均衡
+~~多拨&负载均衡~~
 
 ~~组播~~
 
