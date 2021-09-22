@@ -16,7 +16,7 @@
 
 :heavy_check_mark:zerotier
 
-:heavy_check_mark:Turbo ACC
+~~Turbo ACC~~
 
 :heavy_check_mark:访客网络
 
@@ -26,7 +26,7 @@
 
 ~~组播~~
 
-~~锐捷认证~~（找不到合适的依赖，暂时放弃）
+~~锐捷认证~~
 
 :heavy_check_mark:KMS
 
